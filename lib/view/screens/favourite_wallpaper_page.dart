@@ -66,7 +66,7 @@ class _MyFavuriteWallpaperState extends State<MyFavuriteWallpaper> {
                                 ),
                               ],
                               image: DecorationImage(
-                                  image: NetworkImage(e['previewURL']),
+                                  image: NetworkImage(e['largeImageURL']),
                                   fit: BoxFit.cover),
                             ),
                           ),
@@ -79,7 +79,7 @@ class _MyFavuriteWallpaperState extends State<MyFavuriteWallpaper> {
                               borderRadius: BorderRadius.only(
                                   bottomLeft: Radius.circular(10),
                                   bottomRight: Radius.circular(10)),
-                              color: Colors.white,
+                              color: Color(0xff9DB2BF),
                               boxShadow: [
                                 BoxShadow(
                                   offset: Offset(3, 3),
@@ -115,7 +115,7 @@ class _MyFavuriteWallpaperState extends State<MyFavuriteWallpaper> {
                                     favWallpaper.remove(e);
                                     setState(() {});
                                   },
-                                  child: Text("Remove"),
+                                  child: const Text("Remove"),
                                 )
                               ],
                             ),
