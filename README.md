@@ -92,15 +92,20 @@ Once you have completed your project and uploaded it to your GitHub repository, 
 <p>
   <img src = "https://github.com/IamSmitChitroda/wallpaper_app/assets/143987366/ff1a9998-a0b1-48c0-8121-08856acf23b5" width=22% height=35% >
   
-  <img src = "https://github.com/IamSmitChitroda/wallpaper_app/assets/143987366/c0e45fd5-9261-45e3-93b1-11bc0a1c3e49" width=22% height=35% >
+  <img src = "https://github.com/IamSmitChitroda/wallpaper_app/assets/143987366/b16bf917-6218-4746-b3a0-200c6c9e0fc2" width=22% height=35% >
  
+  <img src = "https://github.com/IamSmitChitroda/wallpaper_app/assets/143987366/0bdd8dc8-40d1-4bb2-880b-31b9ca10f267" width=22% height=35% >
+
   <img src = "https://github.com/IamSmitChitroda/wallpaper_app/assets/143987366/a76a7afc-63af-40d1-9912-18a9dd5c96e7" width=22% height=35% >
  
-  <img src = "https://github.com/IamSmitChitroda/wallpaper_app/assets/143987366/621c5f93-0682-484f-9847-39dcb7da7a05" width=22% height=35% >
 </p>
 
 <br>
+
 <p>
+  
+   <img src = "https://github.com/IamSmitChitroda/wallpaper_app/assets/143987366/621c5f93-0682-484f-9847-39dcb7da7a05" width=22% height=35% >
+   
   <img src = "https://github.com/IamSmitChitroda/wallpaper_app/assets/143987366/ddbd4ba8-8783-43d4-bc9a-e77935a9f549" width=22% height=35% >
   
   <img src = "https://github.com/IamSmitChitroda/wallpaper_app/assets/143987366/5cf49242-e785-4988-889b-7d0c8e6420af" width=22% height=35% >
